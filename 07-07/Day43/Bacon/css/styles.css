@@ -1,0 +1,39 @@
+/*****************************TAG SELECTORS***************************/
+
+/*
+h1 {
+    color: rgb(230, 83, 25);
+    font-size: 150px;
+}
+*/
+
+p {
+    color: rgb(233, 145, 73);
+    font-size: 20px;
+}
+
+
+img:hover {
+    background-color: grey;
+}
+
+
+/*****************************CLASS SELECTORS***************************/
+
+.bacon {
+    background-color: rgb(230, 83, 25);
+}
+
+.pizza {
+    background-color: rgb(238, 212, 98);
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/*****************************ID SELECTORS***************************/
+#heading {
+    color: rgb(230, 83, 25);
+    font-size: 150px;
+}
